@@ -1,4 +1,4 @@
-# [⭐Please click here to check my coding practice repository](https://github.com/ChingYin-Ariel/Practicing)
+## [⭐Please click here to check my coding practicing](https://github.com/ChingYin-Ariel/Practicing)
 
 Hi, I'm Ariel 👋
 
